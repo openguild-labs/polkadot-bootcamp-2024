@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openedu101/polkadot-bootcamp"
+    "url": "git+https://github.com/openguild-labs/polkadot-bootcamp-2024"
   },
   "author": "Jayden <jayden.dangvu@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/openedu101/polkadot-bootcamp"
+    "url": "https://github.com/openguild-labs/polkadot-bootcamp-2024"
   },
-  "homepage": "https://github.com/openedu101/polkadot-bootcamp",
+  "homepage": "https://github.com/openguild-labs/polkadot-bootcamp-2024",
   "dependencies": {
     "clsx": "^2.1.1",
     "next": "^13.0.6",
